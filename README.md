@@ -1,4 +1,4 @@
 # AWSPipeline
 docker installed
 docker build -t tmahesh .
-mahesh reddy Tur
+mahesh reddy Turimerla
