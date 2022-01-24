@@ -1,3 +1,3 @@
 # AWSPipeline
 docker installed
-docker build -t
+docker build -t tmahesh .
