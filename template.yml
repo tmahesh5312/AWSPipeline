@@ -13,7 +13,7 @@ Parameters:
     Default: '1.0.0'
 
   S3ConfigStackName:
-    Description: Stack name which has all of the S3 configuration
+    Description: Stack name which has all of the S3
     Type: String
     Default: s3-iam-config
 
